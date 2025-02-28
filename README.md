@@ -3,6 +3,8 @@
 ## Overview
 This PowerShell script provides a graphical user interface (GUI) for various system utilities, including system information retrieval, disk space checking, Windows repair, network status, disk cleanup, and update checking.
 
+![image alt](https://github.com/CollinBeurskens/SysUtil/blob/584249fc9b9cabd2f5dfae9fabbb5296671abbbf/screenshot.png)
+
 ## Features
 - **System Info**: Retrieves and saves system details to a text file.
 - **Check Disk Space**: Displays disk health, used, and free space.
