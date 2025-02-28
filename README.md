@@ -22,7 +22,7 @@ This PowerShell script provides a graphical user interface (GUI) for various sys
 ## Installation
 1. Open Powershell (With Adminstrator Permissions)
 2. ```Powershell
-   iwr https://raw.githubusercontent.com/CollinBeurskens/SysUtil/refs/heads/main/SysUtil.ps1 | iex
+   iwr https://raw.githubusercontent.com/CollinBeurskens/SysUtil/refs/heads/main/install.ps1 | iex
    ```
 3. Your all set!
    
