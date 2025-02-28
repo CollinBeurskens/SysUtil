@@ -28,7 +28,7 @@ This PowerShell script provides a graphical user interface (GUI) for various sys
 4. Your all set!
 
 ## Other Installation Options
-This command only downloads the needed script for this program (NO INSTALLER, NO SHORTCUT, NO SPECIAL DIRECTORY)
+This command only downloads the needed script for this program (NO INSTALLER, NO SHORTCUT, NO SPECIAL DIRECTORY and downloads to desktop!)
 ```Powershell
 iwr "https://raw.githubusercontent.com/CollinBeurskens/SysUtil/refs/heads/main/SysUtil.ps1" -OutFile "$([System.Environment]::GetFolderPath('Desktop'))\SysUtil.ps1"
 ```
