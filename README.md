@@ -25,16 +25,10 @@ This PowerShell script provides a graphical user interface (GUI) for various sys
    iwr https://raw.githubusercontent.com/CollinBeurskens/SysUtil/refs/heads/main/SysUtil.ps1 | iex
    ```
 3. Your all set!
-
-## Usage
-- Double-click the script to launch the GUI.
-- Select the desired utility from the available buttons.
-- Follow on-screen instructions for each feature.
-
+   
 ## Notes
 - The script automatically relaunches with administrative privileges if not already elevated.
 - Log files are saved to the desktop for certain operations (e.g., system info, repair logs).
-- The UI design includes a custom close button and a toolbar.
 
 ## Credits
 - Developed by [Collin Beurskens](https://github.com/CollinBeurskens)
