@@ -38,7 +38,3 @@ This PowerShell script provides a graphical user interface (GUI) for various sys
 ## Credits
 - Developed by [Collin Beurskens](https://github.com/CollinBeurskens)
 - Uses Windows PowerShell and .NET Framework for UI components.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
