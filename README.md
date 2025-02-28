@@ -20,12 +20,11 @@ This PowerShell script provides a graphical user interface (GUI) for various sys
 - Internet access (for downloading avatar and checking updates)
 
 ## Installation
-1. Download the script.
-2. Ensure PowerShell execution policy allows running scripts:
-   ```powershell
-   Set-ExecutionPolicy Bypass -Scope Process -Force
+1. Open Powershell (With Adminstrator Permissions)
+2. ```Powershell
+   iwr https://raw.githubusercontent.com/CollinBeurskens/SysUtil/refs/heads/main/SysUtil.ps1 | iex
    ```
-3. Run the script as an administrator.
+3. Your all set!
 
 ## Usage
 - Double-click the script to launch the GUI.
