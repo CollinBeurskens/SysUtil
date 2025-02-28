@@ -10,7 +10,7 @@ This PowerShell script provides a graphical user interface (GUI) for various sys
 - **Network Status**: Checks internet connectivity.
 - **Clean Tool**: Opens Windows Disk Cleanup.
 - **Check for Updates**: Searches for and installs pending Windows updates.
-- **Custom UI**: Styled interface with a non-movable main window and rounded buttons.
+- **Custom UI**: Styled interface.
 
 ## Requirements
 - Windows operating system
