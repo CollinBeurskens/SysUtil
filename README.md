@@ -1,7 +1,7 @@
 # System Utility Dashboard
 
 # Quick Disclaimer!
-On my website [link-to-website](https://sysutil.netlify.app/) it stays up to date. Im not willing to update it each time on this github page.
+On my [website](https://sysutil.netlify.app/) it stays up to date. Im not willing to update it each time on this github page.
 
 ## Overview
 This PowerShell script provides a graphical user interface (GUI) for various system utilities, including system information retrieval, disk space checking, Windows repair, network status, disk cleanup, and update checking.
