@@ -17,7 +17,7 @@ This PowerShell script provides a graphical user interface (GUI) for various sys
 ## Requirements
 - Windows operating system
 - PowerShell with administrative privileges
-- Internet access (for downloading avatar and checking updates)
+- Internet access (obviously)
 
 ## Installation
 1. Open Powershell (With Adminstrator Permissions)
