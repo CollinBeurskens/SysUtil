@@ -33,6 +33,11 @@ This command only downloads the needed script for this program (NO INSTALLER, NO
 iwr "https://raw.githubusercontent.com/CollinBeurskens/SysUtil/refs/heads/main/SysUtil.ps1" -OutFile "$([System.Environment]::GetFolderPath('Desktop'))\SysUtil.ps1"
 ```
 
+## Memory Installation
+This doesn't actually install it instead it stores it in the memory. So this wont take up any storage at all.
+```Powershell
+iwr https://raw.githubusercontent.com/CollinBeurskens/SysUtil/refs/heads/main/SysUtil.ps1 | iex
+```
 
 ## Notes
 - The script automatically relaunches with administrative privileges if not already elevated.
