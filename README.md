@@ -26,7 +26,14 @@ This PowerShell script provides a graphical user interface (GUI) for various sys
    iwr https://raw.githubusercontent.com/CollinBeurskens/SysUtil/refs/heads/main/install.ps1 | iex
    ```
 4. Your all set!
-   
+
+# Other Installation Options
+This command only downloads the needed script for this program (NO INSTALLER, NO SHORTCUT, NO SPECIAL DIRECTORY)
+```Powershell
+iwr "https://raw.githubusercontent.com/CollinBeurskens/SysUtil/refs/heads/main/SysUtil.ps1" -OutFile "$([System.Environment]::GetFolderPath('Desktop'))\SysUtil.ps1"
+```
+
+
 ## Notes
 - The script automatically relaunches with administrative privileges if not already elevated.
 - Log files are saved to the desktop for certain operations (e.g., system info, repair logs).
